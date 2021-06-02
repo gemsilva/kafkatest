@@ -3,7 +3,6 @@ package main
 import (
 	"fmt"
 	kafka2 "github.com/gemsilva/kafkatest/application/kafka"
-
 	ckafka "github.com/confluentinc/confluent-kafka-go/kafka"
 	"github.com/joho/godotenv"
 	"log"

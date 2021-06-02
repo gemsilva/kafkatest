@@ -1,5 +1,8 @@
 module github.com/gemsilva/kafkatest
+<<<<<<< HEAD
 
+=======
+>>>>>>> 4d4cb40d4e6002655ddd8926a894ee6e95928a8d
 
 go 1.16
 

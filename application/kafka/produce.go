@@ -5,9 +5,9 @@ import (
 	"log"
 	"os"
 	"time"
-
-		   "github.com/gemsilva/kafkatest/application/route/infra/kafka"
 	route2 "github.com/gemsilva/kafkatest/application/route/route"
+
+	"github.com/gemsilva/kafkatest/application/route/infra/kafka"
 
 	ckafka "github.com/confluentinc/confluent-kafka-go/kafka"
 )

@@ -1,4 +1,5 @@
-module github.com/codeedu/imersaofsfc2-simulator
+module github.com/gemsilva/kafkatest
+
 
 go 1.16
 

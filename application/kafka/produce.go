@@ -6,7 +6,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/gemsilva/kafkatest/application/route/infra/kafka"
+		   "github.com/gemsilva/kafkatest/application/route/infra/kafka"
 	route2 "github.com/gemsilva/kafkatest/application/route/route"
 
 	ckafka "github.com/confluentinc/confluent-kafka-go/kafka"

@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 	"time"
-	route2 "github.com/gemsilva/kafkatest/application/route/route"
+	route2 "github.com/gemsilva/kafkatest/application/route"
 
 	"github.com/gemsilva/kafkatest/application/route/infra/kafka"
 
